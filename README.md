@@ -8,4 +8,26 @@
 
 ## Ideia de Projeto
 
-Durante esta disciplina, estaremos desenvolvendo um Gerenciador de Patrimônio Empresarial. Trata-se de uma solução completa destinada a armazenar, organizar e monitorar todas as informações relacionadas ao patrimônio de uma empresa. Este sistema proposto visa automatizar e simplificar o processo de cadastro e movimentação dos bens da empresa, desde a aquisição até a transferência ou descarte, além de oferecer a capacidade de gerar relatórios detalhados sobre o estado atual e histórico do patrimônio.
+O projeto consiste em desenvolver um sistema web responsivo para o gerenciamento de patrimônio de um laboratório de tecnologia da UFSC associado a Fundação, permitindo que os colaboradores e a equipe de suporte tenham acesso às informações relevantes de forma eficiente. Abaixo está uma descrição dos principais recursos e funcionalidades do sistema:
+
+Autenticação:
+
+O acesso ao sistema será restrito e exigirá autenticação para garantir a segurança dos dados.
+Apenas usuários autorizados, como colaboradores e membros da equipe de suporte, poderão fazer login.
+Permissões de acordo com perfil:
+
+O sistema terá um sistema de gestão de permissões granular, permitindo que o administrador atribua diferentes níveis de acesso aos usuários.
+Um perfil associada a equipe de suporte terá permissões específicas para alterar os itens de patrimônio associados a cada colaborador.
+Isso inclui adicionar novos itens, atualizar informações ou remover itens do inventário.
+Cada colaborador terá acesso apenas aos itens de patrimônio associados a ele.
+Listagem de patrimônio:
+
+O sistema fornecerá uma lista completa de todo o patrimônio que está sob responsabilidade do laboratório e seus colaboradores.
+Os itens de patrimônio incluirão computadores, periféricos, acessórios ergonômicos e outros equipamentos relevantes.
+O sistema permitirá cadastro de novos patrimônios, para o caso de novas aquisições, a edição de patrimônios, para possíveis cadastros incorretos, e a exclusão de patrimônios, para o caso de problemas irreversíveis.
+Reponsividade:
+
+O sistema será desenvolvido para ser acessível tanto através de computadores quanto de celulares, garantindo uma experiência de usuário consistente em diferentes dispositivos e tamanhos de tela.
+Interface Intuitiva e Amigável:
+
+A interface do usuário será projetada de forma intuitiva e amigável, facilitando a navegação e o uso do sistema por parte dos colaboradores e da equipe de suporte.
