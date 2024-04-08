@@ -4,6 +4,7 @@
 
 - **Eduardo Costa Pereira** (20102706)
 - **Amanda Martins Oliveira** (19202268)
+- **Tawan Santos Saravalli** (23250866)
 
 ## Ideia de Projeto
 
