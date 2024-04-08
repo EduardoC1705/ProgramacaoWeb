@@ -18,9 +18,9 @@ Autenticação:
 Permissões de acordo com perfil:
 
 - O sistema terá um sistema de gestão de permissões granular, permitindo que o administrador atribua diferentes níveis de acesso aos usuários.
-- Um perfil associada a equipe de suporte terá permissões específicas para alterar os itens de patrimônio associados a cada colaborador.
-- Isso inclui adicionar novos itens, atualizar informações ou remover itens do inventário.
-- Cada colaborador terá acesso apenas aos itens de patrimônio associados a ele.
+ * Um perfil associada a equipe de suporte terá permissões específicas para alterar os itens de patrimônio associados a cada colaborador.
+ * Isso inclui adicionar novos itens, atualizar informações ou remover itens do inventário.
+ * Cada colaborador terá acesso apenas aos itens de patrimônio associados a ele.
 
 Listagem de patrimônio:
 
